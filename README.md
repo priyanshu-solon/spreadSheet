@@ -9,7 +9,6 @@ Welcome to the **spreadSheet** project repository! This project is designed to h
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -44,7 +43,3 @@ Open the `index.html` file in your web browser to start using the spreadSheet ap
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
-
-## Contact
-
-For any questions or inquiries, please contact Priyanshu Solon at [your email address].
