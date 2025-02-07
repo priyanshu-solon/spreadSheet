@@ -9,7 +9,6 @@ Welcome to the **spreadSheet** project repository! This project is designed to h
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -45,10 +44,6 @@ Open the `index.html` file in your web browser to start using the spreadSheet ap
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
